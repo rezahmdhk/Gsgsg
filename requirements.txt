@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+pyrogram==2.0.106
+pytgcalls==4.0.0
+yt-dlp==2024.4.9
+spotipy==2.23.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+mutagen==1.47.0
+aiofiles==23.2.1
+cachetools==5.3.3
+requests==2.31.0
