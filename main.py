@@ -39,8 +39,8 @@ import aiofiles
 from cachetools import TTLCache
 
 # ========== CONFIGURATION ==========
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-API_ID = 1234567
+BOT_TOKEN = "8933484642:AAFocsKX20UN3Js8Mu1AUR5eTZzc215b7xU"
+API_ID = 8916314219
 API_HASH = "YOUR_API_HASH"
 PHONE_NUMBER = "+1234567890"  # user account phone
 
